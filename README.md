@@ -1,2 +1,6 @@
-# Snake-Game
-Snake game using frontend by ajeet kumar
+# project1
+Snake game 
+     -using html ,css, JS;
+     -music sounds sources all from YOUTUBE;
+
+->By Mahir Aggarwal
