@@ -3,4 +3,4 @@ Snake game
      -using html ,css, JS;
      -music sounds sources all from YOUTUBE;
 
-->By Mahir Aggarwal
+->By Ajeet Kumar
